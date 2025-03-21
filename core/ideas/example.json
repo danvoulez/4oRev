@@ -1,0 +1,10 @@
+{
+  "id": "idea-001",
+  "author": "admin",
+  "title": "Adicionar botão de exportar CSV",
+  "description": "Facilitaria a análise dos dados exportar os relatórios de vendas em CSV.",
+  "category": "Sistema",
+  "votes": 7,
+  "status": "nova",
+  "created_at": "2025-03-21T14:00:00Z"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "example-module",
+  "name": "Exemplo de Módulo",
+  "type": "dashboard",
+  "status": "active",
+  "role": ["admin"],
+  "components": ["ExemploComponenteA", "ExemploComponenteB"],
+  "created_at": "2025-03-21T00:00:00Z",
+  "last_updated": "2025-03-21T12:00:00Z"
+}

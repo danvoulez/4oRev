@@ -1,0 +1,6 @@
+{
+  "id": "onboarding-flow",
+  "name": "Fluxo de Onboarding",
+  "steps": ["intro", "form", "confirmation"],
+  "active": true
+}
