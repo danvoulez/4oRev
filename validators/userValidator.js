@@ -1,0 +1,1 @@
+// express-validator rules for user endpoints
